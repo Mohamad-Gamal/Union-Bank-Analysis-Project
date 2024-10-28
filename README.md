@@ -1,5 +1,5 @@
 ## Union-Bank-Analysis-Project
-![Animation](https://github.com/user-attachments/assets/fe61d04c-2c31-40cc-a49e-ebd9228ae067)
+![Animation](https://github.com/user-attachments/assets/dcff0325-3c99-4cf6-ba66-b31e217d0ff5)
 # Overview
 This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline for a banking system using SQL Server Integration Services (SSIS). It extracts data from multiple banking sources, transforms it according to business rules, and loads it into a data warehouse for analysis and reporting. In addition to SSIS, the project integrates SQL Server Analysis Services (SSAS) to build multidimensional models and support advanced analytical queries. Power BI is then used to create dynamic dashboards and reports for visualizing key banking metrics.
 
